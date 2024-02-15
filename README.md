@@ -1,23 +1,26 @@
-### Hi there 👋
+# Hi there 👋, my name is Daniel Vitor.
 
+Currently, I am a Back-End developer, although I study Software Engineering. My goal is to achieve higher levels of knowledge, and my interest at the moment is to learn more about Project Architecture and Data Structures.
 
-<div align="center">
-  <a href="https://github.com/DanielVFF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielVFF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVFF&layout=compact&langs_count=7&theme=dark"/>
-</div>
-    
-<!--
-**DanielVFF/DanielVFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience with Technologies:
 
-Here are some ideas to get you started:
+### Code
+- Node.js
+- Typescript
+- Laravel
+- Fast Api
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Infrastructure and Databases
+- Docker
+- PostgreSql
+- MySql
+- Sql Server
+- Nginx Servers
+
+### Others
+- Git/Github
+- Requirement Engineering
+- Project Documentation
+- Api Documentation
+
+If you liked my profile, feel free to message me via [email](mailto:danielvitorffaria@gmail.com).
